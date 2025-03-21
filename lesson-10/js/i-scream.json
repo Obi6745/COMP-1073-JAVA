@@ -1,30 +1,68 @@
 {
-  "companyName" : "I Scream Inc.",
-  "headOffice" : "South Pole, Antarctica",
-  "established" : 2001,
-  "active" : true,
-  "topFlavors" : [
+  "companyName": "I Scream for Ice Cream",
+  "headOffice": "South Pole, Antarctica",
+  "established": 2001,
+  "active": true,
+  "topFlavors": [
     {
-      "name" : "Monstrous Mint",
-      "calories" : 400,
-      "type" : "ice cream",
-      "ingredients" : [
-        "peppermint cream",
-        "dark chocolate chips",
-        "vanilla extract"
-      ],
-      "image" : "chocolate-mint.svg"
+      "name": "Vanilla Bean Dream",
+      "image": "peach-mango.svg",
+      "type": "dairy",
+      "calories": 250,
+      "ingredients": [
+        "Fresh vanilla beans",
+        "Cream",
+        "Sugar",
+        "Natural stabilizers"
+      ]
     },
     {
-      "name" : "Perfect Peach Mango",
-      "calories" : 350,
-      "type" : "sorbet",
-      "ingredients" : [
-        "peach purée",
-        "mango chunks",
-        "clover honey"
-      ],
-      "image" : "peach-mango.svg"
+      "name": "Chocolate Fudge Fantasy",
+      "image": "chocolate-mint.svg",
+      "type": "dairy",
+      "calories": 320,
+      "ingredients": [
+        "Dark chocolate",
+        "Cream",
+        "Cocoa powder",
+        "Fudge swirl"
+      ]
+    },
+    {
+      "name": "Strawberry Fields Forever",
+      "image": "strawberry-sprinkle.svg",
+      "type": "dairy",
+      "calories": 280,
+      "ingredients": [
+        "Fresh strawberries",
+        "Cream",
+        "Sugar",
+        "Natural color"
+      ]
+    },
+    {
+      "name": "Mango Tango Sorbet",
+      "image": "ice-cream-xtra2.svg",
+      "type": "sorbet",
+      "calories": 180,
+      "ingredients": [
+        "Fresh mangoes",
+        "Water",
+        "Sugar",
+        "Natural flavoring"
+      ]
+    },
+    {
+      "name": "Cosmic Cotton Candy",
+      "image": "ice-cream-xtra1.svg",
+      "type": "dairy",
+      "calories": 290,
+      "ingredients": [
+        "Cotton candy flavor",
+        "Cream",
+        "Sugar",
+        "Blue spirulina color"
+      ]
     }
   ]
-}
+} 
